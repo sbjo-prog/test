@@ -15,23 +15,25 @@ You will be able to link any actions available with any reactions.
 Prerequisites
 ------------
 
-    To use our project you will need to complete some prerequisites:
-        you will need an account for each service you have planned to use.
+To use our project you will need to complete some prerequisites:
+   you will need an account for each service you have planned to use.
 
-    Our application is usable on smartphone or on your computer.
+   Our application is usable on smartphone or on your computer.
 
-        If you want use the computer version you will need to install node to do that
-        you can use the site of node https://nodejs.org/en/ and download all the packages or you can use
-        a package manager.
+   If you want use the computer version you will need to install node to do that
+   you can use the site of node https://nodejs.org/en/ and download all the packages or you can use
+   a package manager.
 
-        Example with package manager:
+   Example with package manager:
+   
         "sudo apt update && sudo apt install yarn"
-        The download of yarn will also add node.js at your computer.
+        
+   The download of yarn will also add node.js at your computer.
 
 
-        If you want use the mobile version you will need a smartphone on android or
-        you can download android studio if you want test the mobile version on your
-        computer. You will also need to have node and Android SDK.
+   If you want use the mobile version you will need a smartphone on android or
+   you can download android studio if you want test the mobile version on your
+   computer. You will also need to have node and Android SDK.
 
 Launch the program:
     on mobile: "react-native run-android"
@@ -39,8 +41,6 @@ Launch the program:
 
 
 
-
-########################################################################################################
 
 Developer part
 
@@ -66,9 +66,9 @@ Login:
 
 
 Running the tests:
-
     Our project have a series of automated tests, if you want to use them you will
     need to do:
+                
                 "yarn test"
 
 
@@ -77,9 +77,9 @@ Running the tests:
 
 Authors:
 
-    Arthur Perno
-    Itagiba Alix
-    Alexandre loiseau
-    Félix Barthes
-    Charles Raimbault
-    Raphael Maisonnave
+Arthur Perno
+Itagiba Alix
+Alexandre loiseau
+Félix Barthes
+Charles Raimbault
+Raphael Maisonnave
