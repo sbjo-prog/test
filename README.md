@@ -17,11 +17,11 @@ Prerequisites
 
 To use our project you will need to complete some prerequisites:
 
-   *you will need an account for each service you have planned to use.
+   * you will need an account for each service you have planned to use.
 
-   *Our application is usable on smartphone or on your computer.
+   * Our application is usable on smartphone or on your computer.
 
-   *If you want use the computer version you will need to install node, to do that
+   * If you want use the computer version you will need to install node, to do that
    you can use the site of node https://nodejs.org/en/ and download all the packages or you can use
    a package manager.
 
@@ -29,10 +29,10 @@ To use our project you will need to complete some prerequisites:
    
         "sudo apt update && sudo apt install yarn"
         
-   *The download of yarn will also add node.js at your compute.
+   * The download of yarn will also add node.js at your compute.
 
 
-   *If you want use the mobile version you will need a smartphone on android or
+   * If you want use the mobile version you will need a smartphone on android or
    you can download android studio if you want test the mobile version on your
    computer. You will also need to have node and Android SDK.
 
