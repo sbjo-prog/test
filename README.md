@@ -4,13 +4,13 @@ Welcome to our Area.
 Getting Started
 --------------
 
-The goal of this project is to create a system of actions reactions on mobile and web.
-We built an action-reaction system with webhooks.
-You will have seven services at your disposition, for example Facebook, twitch.
-Each service have some specific actions reactions link to it.
+The goal of this project is to create a system of actions reactions on mobile and web.  
+We built an action-reaction system with webhooks.  
+You will have seven services at your disposition, for example Facebook, twitch.  
+Each service have some specific actions reactions link to it.  
 For example if you sent a message on your Facebook account your account twitter
-will post a twit.
-You will be able to link any actions available with any reactions.
+will post a twit.  
+You will be able to link any actions available with any reactions.  
 
 Prerequisites
 ------------
@@ -20,7 +20,7 @@ To use our project you will need to complete some prerequisites:
 
    Our application is usable on smartphone or on your computer.
 
-   If you want use the computer version you will need to install node to do that
+   If you want use the computer version you will need to install node, to do that
    you can use the site of node https://nodejs.org/en/ and download all the packages or you can use
    a package manager.
 
@@ -28,7 +28,7 @@ To use our project you will need to complete some prerequisites:
    
         "sudo apt update && sudo apt install yarn"
         
-   The download of yarn will also add node.js at your computer.
+   The download of yarn will also add node.js at your compute.
 
 
    If you want use the mobile version you will need a smartphone on android or
@@ -36,6 +36,7 @@ To use our project you will need to complete some prerequisites:
    computer. You will also need to have node and Android SDK.
 
 Launch the program:
+
    on mobile: 
         
     "react-native run-android"
@@ -83,9 +84,9 @@ Running the tests:
 
 Authors:
 
- Arthur Perno
- Itagiba Alix
- Alexandre loiseau
- Félix Barthes
- Charles Raimbault
- Raphael Maisonnave
+ Arthur Perno  
+ Itagiba Alix  
+ Alexandre loiseau  
+ Félix Barthes  
+ Charles Raimbault  
+ Raphael Maisonnave  
