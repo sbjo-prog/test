@@ -1,16 +1,18 @@
 Welcome to our Area.
 
-Getting Started:
+Getting Started
+=================
 
-    The goal of this project is to create a system of actions reactions on mobile and web.
-    We built an action-reaction system with webhooks.
-    You will have seven services at your disposition, for example Facebook, twitch.
-    Each service have some specific actions reactions link to it.
-    For example if you sent a message on your Facebook account your account twitter
-    will post a twit.
-    You will be able to link any actions available with any reactions.
+The goal of this project is to create a system of actions reactions on mobile and web.
+We built an action-reaction system with webhooks.
+You will have seven services at your disposition, for example Facebook, twitch.
+Each service have some specific actions reactions link to it.
+For example if you sent a message on your Facebook account your account twitter
+will post a twit.
+You will be able to link any actions available with any reactions.
 
-Prerequisites:
+Prerequisites
+=============
 
     To use our project you will need to complete some prerequisites:
         you will need an account for each service you have planned to use.
