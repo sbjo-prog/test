@@ -36,13 +36,19 @@ To use our project you will need to complete some prerequisites:
    computer. You will also need to have node and Android SDK.
 
 Launch the program:
-    on mobile: "react-native run-android"
-    on computer: "npm start"
+   on mobile: 
+        
+    "react-native run-android"
+    
+   on computer: 
+   
+    "npm start"
 
 
 
 
 Developer part
+-------------
 
 
 Registration:
@@ -69,7 +75,7 @@ Running the tests:
     Our project have a series of automated tests, if you want to use them you will
     need to do:
                 
-                "yarn test"
+    "yarn test"
 
 
 
@@ -77,9 +83,9 @@ Running the tests:
 
 Authors:
 
-Arthur Perno
-Itagiba Alix
-Alexandre loiseau
-Félix Barthes
-Charles Raimbault
-Raphael Maisonnave
+ Arthur Perno
+ Itagiba Alix
+ Alexandre loiseau
+ Félix Barthes
+ Charles Raimbault
+ Raphael Maisonnave
