@@ -46,6 +46,32 @@ Launch the program:
     "npm start"
 
 
+Examples:
+--------
+
+With our area any actions will have the possibilite to call any reactions.  
+See below a list of the actions and reactions available.
+
+Actions:
+
+* Post facebook
+* Post twitter
+* New commit on github
+* New file on dropbox
+* New follower on twitch
+* Rteweet on twitter
+* New file share on slack
+* Launch a stream on twitch
+
+Reactions:
+
+* Message on slack
+* Message on discord
+* Post on twiter
+* Send a mail with gmail
+* Save on dropbox
+* Send a message on with messenger
+* Post on facebook
 
 
 Developer part
