@@ -16,6 +16,7 @@ Prerequisites
 ------------
 
 To use our project you will need to complete some prerequisites:
+
    you will need an account for each service you have planned to use.
 
    Our application is usable on smartphone or on your computer.
@@ -53,7 +54,8 @@ Developer part
 
 
 Registration:
-    The registration is handle for the web part in DEV_area_2019/web/src/components/auth/SignUp.js
+
+   The registration is handle for the web part in DEV_area_2019/web/src/components/auth/SignUp.js
 
     state = {
         email: "",
@@ -63,7 +65,8 @@ Registration:
     };
 
 Login:
-    The registration is handle for the web part in DEV_area_2019/web/src/components/auth/SignIn.js
+
+   The registration is handle for the web part in DEV_area_2019/web/src/components/auth/SignIn.js
 
     state = {
         email: "",
@@ -71,18 +74,15 @@ Login:
     };
 
 
-
 Running the tests:
-    Our project have a series of automated tests, if you want to use them you will
-    need to do:
+
+   Our project have a series of automated tests, if you want to use them you willneed to do:
                 
     "yarn test"
 
 
-
-########################################################################################################
-
 Authors:
+--------
 
  Arthur Perno  
  Itagiba Alix  
